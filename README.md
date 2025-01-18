@@ -1,5 +1,5 @@
 # YOLOv8-Recycle-Detection
---
+---
 Name : YOLOv8-Recycle-Detection
 
 - This project is to load the YOLOv8 model's pre-learning models, re-learn recyclables, and compare performance.
